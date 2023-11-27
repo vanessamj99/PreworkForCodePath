@@ -4,7 +4,7 @@ App Description
 This application takes in the user's name, school, and the amount of pets that they have and displays a welcoming message when the introduced button is pressed.
 
 App Walk-though
-https://drive.google.com/file/d/1HIkpFNVVAphmZl15wBwSPIVKGdxO0xN_/view?usp=sharing
+https://imgur.com/a/WXtLIsy.gif
 
 Required Features
 [x] 1. App displays an image of a school's logo
